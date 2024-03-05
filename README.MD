@@ -3,7 +3,7 @@ ViewDiff generates high-quality, multi-view consistent images of a real-world 3D
 
 This is the official repository that contains source code for the CVPR 2024 paper [ViewDiff](https://lukashoel.github.io/ViewDiff/).
 
-[[arXiv](https://lukashoel.github.io/ViewDiff/static/viewdiff_paper.pdf)] [[Project Page](https://lukashoel.github.io/ViewDiff/)] [[Video](https://youtu.be/SdjoCqHzMMk)]
+[[arXiv](https://arxiv.org/abs/2403.01807)] [[Project Page](https://lukashoel.github.io/ViewDiff/)] [[Video](https://youtu.be/SdjoCqHzMMk)]
 
 ![Teaser](docs/teaser.jpg "ViewDiff")
 
