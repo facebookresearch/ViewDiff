@@ -96,3 +96,28 @@ def generate_blip2_captions(
 
 if __name__ == "__main__":
     tyro.cli(generate_blip2_captions)
+
+    # jun
+    
+    # In file demo.py
+    # from dataclasses import dataclass
+    # import tyro
+
+    # @dataclass
+    # class demo:
+    #     property1: str = "default string 1"
+    #     preperty2: str = "default string 2"
+
+    # def democlass(config:demo):
+    #     print(config.property1)
+
+    # tyro.cli(democlass)
+    
+    # In the terminal
+    # python demo.py --config.property1 "new string"
+    # or
+    # python demo.py --config.property1="new string"
+    
+    
+    # Output:
+    # new string
