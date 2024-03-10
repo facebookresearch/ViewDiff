@@ -54,7 +54,7 @@ accelerate launch --mixed_precision="no" -m viewdiff.train \
 --dataset-config.batch.image_height "256" \
 --dataset-config.batch.other_selection "mix" \
 --validation-dataset-config.co3d-root $CO3DV2_DATASET_ROOT \
---validation-dataset-config.category "teddybear" \
+--validation-dataset-config.category $4 \
 --validation-dataset-config.max_sequences "1" \
 --validation-dataset-config.batch.load_recentered \
 --validation-dataset-config.batch.use_blip_prompt \
