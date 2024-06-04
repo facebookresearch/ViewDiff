@@ -11,7 +11,7 @@ numpy==1.24.2
 omegaconf==2.3.0
 opencv_python==4.6.0.66
 packaging==23.2
-Pillow==10.2.0
+Pillow==10.3.0
 PyYAML==6.0.1
 scikit-image==0.20.0
 scipy==1.10.0
