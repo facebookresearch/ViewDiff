@@ -148,5 +148,15 @@ It can be used with standard NeRF frameworks like [Instant-NGP](https://github.c
 
 ## LICENSE
 
-The majority of this repository is licensed under CC-BY-NC, however portions of the project are available under separate license terms: 
+The majority of this repository is licensed under CC-BY-NC, however portions of the project are available under separate license terms:
 - diffusers is licensed under the Apache 2.0 license. We use the repository to extend the default U-Net architecture, by adapting the model definition found in the original library.
+
+- Fastplane (aka [Lightplane](https://lightplane.github.io/)) module for memory-efficient volumetric rendering is licensed under the BSD License. Please consider citing the original paper if you find the module useful:
+```
+@article{cao2024lightplane,
+    author = {Ang Cao and Justin Johnson and Andrea Vedaldi and David Novotny},
+    title = {Lightplane: Highly-Scalable Components for Neural 3D Fields},
+    journal = {arXiv},
+    year = {2024},
+}
+```
