@@ -17,7 +17,7 @@ scikit-image==0.20.0
 scipy==1.10.0
 torch==2.0.1
 torchvision==0.15.2
-tqdm==4.65.0
+tqdm==4.66.3
 transformers==4.38.0
 tyro==0.5.7
 xformers
