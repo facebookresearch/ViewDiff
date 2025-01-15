@@ -9,7 +9,7 @@ imageio>=2.27
 lpips==0.1.4
 numpy==1.24.2
 omegaconf==2.3.0
-opencv_python==4.6.0.66
+opencv_python>=4.8.1.78
 packaging==23.2
 Pillow==10.3.0
 PyYAML==6.0.1
