@@ -18,7 +18,7 @@ scipy==1.10.0
 torch==2.2.0
 torchvision==0.15.2
 tqdm==4.66.3
-transformers==4.38.0
+transformers==4.48.0
 tyro==0.5.7
 xformers
 tensorboard
