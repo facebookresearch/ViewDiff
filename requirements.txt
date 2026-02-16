@@ -15,7 +15,7 @@ Pillow==12.1.1
 PyYAML==6.0.1
 scikit-image==0.20.0
 scipy==1.10.0
-torch==2.3.2
+torch==2.8.0
 torchvision==0.15.2
 tqdm==4.66.3
 transformers==4.48.0
